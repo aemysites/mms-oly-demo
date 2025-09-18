@@ -1,0 +1,623 @@
+{
+  "originUrl": "https://www.oly.com.au",
+  "aborted": false,
+  "lastCrawled": "https://www.oly.com.au/",
+  "urls": [
+    {
+      "url": "https://www.oly.com.au/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "53caeebb008de29c846b171add21c556558bf4e4"
+    },
+    {
+      "url": "https://www.oly.com.au/about",
+      "source": "SITEMAPS",
+      "targetPath": "/about",
+      "id": "dc9f861b4c714e779e5b128299a16f6656611fe8"
+    },
+    {
+      "url": "https://www.oly.com.au/calculators",
+      "source": "SITEMAPS",
+      "targetPath": "/calculators",
+      "id": "640a3feb62d1ce3adf836a1846e39a8b36653306"
+    },
+    {
+      "url": "https://www.oly.com.au/calculators/electric-car",
+      "source": "SITEMAPS",
+      "targetPath": "/calculators/electric-car",
+      "id": "15835984fffce5e6c7ac93effebff55e47018efb"
+    },
+    {
+      "url": "https://www.oly.com.au/calculators/novated-lease",
+      "source": "SITEMAPS",
+      "targetPath": "/calculators/novated-lease",
+      "id": "96a472c68cdfaa18fcd2c017a05437c6844a4641"
+    },
+    {
+      "url": "https://www.oly.com.au/calculators/novated-lease-calculator",
+      "source": "SITEMAPS",
+      "targetPath": "/calculators/novated-lease-calculator",
+      "id": "e0a3ced90a5da3ab724a043b84bcabfd5ddc6b4f"
+    },
+    {
+      "url": "https://www.oly.com.au/calculators/running-cost",
+      "source": "SITEMAPS",
+      "targetPath": "/calculators/running-cost",
+      "id": "ff69b584e1c5ebac767ea41e29f477b5af922717"
+    },
+    {
+      "url": "https://www.oly.com.au/compare-calculator",
+      "source": "SITEMAPS",
+      "targetPath": "/compare-calculator",
+      "id": "2b9ac78c51ec45332b91d4d9b37d906e3ae6ed1a"
+    },
+    {
+      "url": "https://www.oly.com.au/contact",
+      "source": "SITEMAPS",
+      "targetPath": "/contact",
+      "id": "863f40285ceb2918319ae45b34b2ec8401ef4135"
+    },
+    {
+      "url": "https://www.oly.com.au/content/oly",
+      "source": "SITEMAPS",
+      "targetPath": "/content/oly",
+      "id": "81ba62b5d41c8d8e2d22e5ef2c0f957f71d1cf2d"
+    },
+    {
+      "url": "https://www.oly.com.au/content/oly/au",
+      "source": "SITEMAPS",
+      "targetPath": "/content/oly/au",
+      "id": "44ccfa96efeb7955222d3b8ec62a1fbd51a1f723"
+    },
+    {
+      "url": "https://www.oly.com.au/content/oly/au/en",
+      "source": "SITEMAPS",
+      "targetPath": "/content/oly/au/en",
+      "id": "de020a0845082f6cbef9f9b15d0ccd4341168c97"
+    },
+    {
+      "url": "https://www.oly.com.au/cool-cars",
+      "source": "SITEMAPS",
+      "targetPath": "/cool-cars",
+      "id": "8b03466a33b3fc826c9227e4a3c134478b05f0a0"
+    },
+    {
+      "url": "https://www.oly.com.au/disclaimer",
+      "source": "SITEMAPS",
+      "targetPath": "/disclaimer",
+      "id": "ec46ce938ce7d632ec1b96e52fdc2b0361fb6be7"
+    },
+    {
+      "url": "https://www.oly.com.au/drive-safer",
+      "source": "SITEMAPS",
+      "targetPath": "/drive-safer",
+      "id": "2fce797051d41e1c6bc1a945d2af6103fef55394"
+    },
+    {
+      "url": "https://www.oly.com.au/employer-sign-up",
+      "source": "SITEMAPS",
+      "targetPath": "/employer-sign-up",
+      "id": "578de846f6250fc6520cdd53edcfd74d907e7af1"
+    },
+    {
+      "url": "https://www.oly.com.au/employers",
+      "source": "SITEMAPS",
+      "targetPath": "/employers",
+      "id": "69d2183833b2fdc6c95c7bd1b257302e4839575d"
+    },
+    {
+      "url": "https://www.oly.com.au/faq",
+      "source": "SITEMAPS",
+      "targetPath": "/faq",
+      "id": "280fad2af71f45321ec877b0b16ff84309d47ca9"
+    },
+    {
+      "url": "https://www.oly.com.au/get-started",
+      "source": "SITEMAPS",
+      "targetPath": "/get-started",
+      "id": "b3fb4bf627825802e93007c1d25bf063ffd8942e"
+    },
+    {
+      "url": "https://www.oly.com.au/index/search",
+      "source": "SITEMAPS",
+      "targetPath": "/index/search",
+      "id": "49efe6f584efae90e47ac4d571378eb252159f57"
+    },
+    {
+      "url": "https://www.oly.com.au/info-and-news",
+      "source": "SITEMAPS",
+      "targetPath": "/info-and-news",
+      "id": "049d96d92ecf2af289fc9d438cf5a22369f06982"
+    },
+    {
+      "url": "https://www.oly.com.au/info-and-news/electric-car",
+      "source": "SITEMAPS",
+      "targetPath": "/info-and-news/electric-car",
+      "id": "f2a5dd6d694bbb106e4d02e97aa7d2a639de9321"
+    },
+    {
+      "url": "https://www.oly.com.au/info-and-news/electric-car/ev-fbt-exemption-how-does-it-work-and-whos-eligible",
+      "source": "SITEMAPS",
+      "targetPath": "/info-and-news/electric-car/ev-fbt-exemption-how-does-it-work-and-whos-eligible",
+      "id": "cd3f00be7a7659d2f6f9fd6f42b08ffcf2752b94"
+    },
+    {
+      "url": "https://www.oly.com.au/info-and-news/electric-car/ev-novated-lease-australia-busting-common-myths",
+      "source": "SITEMAPS",
+      "targetPath": "/info-and-news/electric-car/ev-novated-lease-australia-busting-common-myths",
+      "id": "576409b760ec247c1004c88b52ec2521e5f10ecb"
+    },
+    {
+      "url": "https://www.oly.com.au/info-and-news/electric-car/novated-lease-electric-car-everything-you-need-know-you-switch",
+      "source": "SITEMAPS",
+      "targetPath": "/info-and-news/electric-car/novated-lease-electric-car-everything-you-need-know-you-switch",
+      "id": "d348b5d05502d7b742db2ed969ab82b2cb2aa2c0"
+    },
+    {
+      "url": "https://www.oly.com.au/info-and-news/electric-car/novated-leasing-tesla",
+      "source": "SITEMAPS",
+      "targetPath": "/info-and-news/electric-car/novated-leasing-tesla",
+      "id": "471ab40b82b9e6735408c102145533886f91813f"
+    },
+    {
+      "url": "https://www.oly.com.au/info-and-news/novated-leasing",
+      "source": "SITEMAPS",
+      "targetPath": "/info-and-news/novated-leasing",
+      "id": "6693443dfb9918e35724052e481ee95594a96c40"
+    },
+    {
+      "url": "https://www.oly.com.au/info-and-news/novated-leasing/benefits-novated-lease-small-medium-business",
+      "source": "SITEMAPS",
+      "targetPath": "/info-and-news/novated-leasing/benefits-novated-lease-small-medium-business",
+      "id": "2481c86a666280b11560ef33ccfd8b9966168631"
+    },
+    {
+      "url": "https://www.oly.com.au/info-and-news/novated-leasing/how-to-choose-the-best-novated-lease-provider-for-you",
+      "source": "SITEMAPS",
+      "targetPath": "/info-and-news/novated-leasing/how-to-choose-the-best-novated-lease-provider-for-you",
+      "id": "7aefacc7b2a10899b6d97b06b1b21db2aa1a253f"
+    },
+    {
+      "url": "https://www.oly.com.au/info-and-news/novated-leasing/how-to-save-tax",
+      "source": "SITEMAPS",
+      "targetPath": "/info-and-news/novated-leasing/how-to-save-tax",
+      "id": "ac433ef243b34aa8a36f3b3641e350d14ddb199d"
+    },
+    {
+      "url": "https://www.oly.com.au/info-and-news/novated-leasing/hyundai-partnership",
+      "source": "SITEMAPS",
+      "targetPath": "/info-and-news/novated-leasing/hyundai-partnership",
+      "id": "4cd546b5e84833e581e2d619ccf8cae6e471a226"
+    },
+    {
+      "url": "https://www.oly.com.au/info-and-news/novated-leasing/nl-vs-buying-outright",
+      "source": "SITEMAPS",
+      "targetPath": "/info-and-news/novated-leasing/nl-vs-buying-outright",
+      "id": "0b1937b3e9726d7526bae56d0dbddf7b7b657976"
+    },
+    {
+      "url": "https://www.oly.com.au/info-and-news/novated-leasing/novated-lease-vs-car-loan-all-facts",
+      "source": "SITEMAPS",
+      "targetPath": "/info-and-news/novated-leasing/novated-lease-vs-car-loan-all-facts",
+      "id": "c3f1ac8ac99976e289627c84c8ba61c59186c18b"
+    },
+    {
+      "url": "https://www.oly.com.au/info-and-news/novated-leasing/what-cars-can-you-get-with-a-novated-lease",
+      "source": "SITEMAPS",
+      "targetPath": "/info-and-news/novated-leasing/what-cars-can-you-get-with-a-novated-lease",
+      "id": "a33a2cc491a20698281db312a30cabb96a33c696"
+    },
+    {
+      "url": "https://www.oly.com.au/info-and-news/novated-leasing/whats-novated-lease-and-it-worth-it",
+      "source": "SITEMAPS",
+      "targetPath": "/info-and-news/novated-leasing/whats-novated-lease-and-it-worth-it",
+      "id": "db8b873de21eab7b6175389adf038fee910479b7"
+    },
+    {
+      "url": "https://www.oly.com.au/info-and-news/novated-leasing/your-novated-lease-options-tailored-to-you",
+      "source": "SITEMAPS",
+      "targetPath": "/info-and-news/novated-leasing/your-novated-lease-options-tailored-to-you",
+      "id": "e276ebd85f9c73398dc6db5fe8c750fb89b5d957"
+    },
+    {
+      "url": "https://www.oly.com.au/legal-information",
+      "source": "SITEMAPS",
+      "targetPath": "/legal-information",
+      "id": "645c8b6f39e6a9a183182b4ea5d77e76006fad56"
+    },
+    {
+      "url": "https://www.oly.com.au/legendary",
+      "source": "SITEMAPS",
+      "targetPath": "/legendary",
+      "id": "b14b026996eda31100c9feefaf32865f4e55a221"
+    },
+    {
+      "url": "https://www.oly.com.au/more-from-oly",
+      "source": "SITEMAPS",
+      "targetPath": "/more-from-oly",
+      "id": "e398c3342288d0c12135bf0cce67a3ed41a96c23"
+    },
+    {
+      "url": "https://www.oly.com.au/novated-lease",
+      "source": "SITEMAPS",
+      "targetPath": "/novated-lease",
+      "id": "14694efbeb3aecaef0f545c806d9fb3db8651ad7"
+    },
+    {
+      "url": "https://www.oly.com.au/novated-lease/byd",
+      "source": "SITEMAPS",
+      "targetPath": "/novated-lease/byd",
+      "id": "0d74e900e824e32ffc53c93d7de67d393091397a"
+    },
+    {
+      "url": "https://www.oly.com.au/novated-lease/electric-cars",
+      "source": "SITEMAPS",
+      "targetPath": "/novated-lease/electric-cars",
+      "id": "23423ee3cc7a965ea3d6c3cd42311961c3187d63"
+    },
+    {
+      "url": "https://www.oly.com.au/novated-lease/hyundai",
+      "source": "SITEMAPS",
+      "targetPath": "/novated-lease/hyundai",
+      "id": "c9be122abdd10f6f89cf70c2dc6dd826ba2dd888"
+    },
+    {
+      "url": "https://www.oly.com.au/novated-lease/insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/novated-lease/insurance",
+      "id": "72a5d162f9a3c64971aeecd476742d5e3afeb174"
+    },
+    {
+      "url": "https://www.oly.com.au/novated-lease/insurance/comprehensive-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/novated-lease/insurance/comprehensive-insurance",
+      "id": "55fc9b9ad0c618ede7ed559a543669bbdc433713"
+    },
+    {
+      "url": "https://www.oly.com.au/novated-lease/insurance/guaranteed-buy-back",
+      "source": "SITEMAPS",
+      "targetPath": "/novated-lease/insurance/guaranteed-buy-back",
+      "id": "7043b5925433d0892c1f3e8ca6e05ff9b70b0c36"
+    },
+    {
+      "url": "https://www.oly.com.au/novated-lease/insurance/lease-protection",
+      "source": "SITEMAPS",
+      "targetPath": "/novated-lease/insurance/lease-protection",
+      "id": "d3709ba9423602644043aa0b656695928ba816fb"
+    },
+    {
+      "url": "https://www.oly.com.au/novated-lease/insurance/total-loss-assist",
+      "source": "SITEMAPS",
+      "targetPath": "/novated-lease/insurance/total-loss-assist",
+      "id": "924df16f213bbd4bdda80ce5f1ff54a1ad46c602"
+    },
+    {
+      "url": "https://www.oly.com.au/novated-lease/polestar",
+      "source": "SITEMAPS",
+      "targetPath": "/novated-lease/polestar",
+      "id": "84f35d144fe6aa2ef33461f43209cb8f6a9f9413"
+    },
+    {
+      "url": "https://www.oly.com.au/oly-app",
+      "source": "SITEMAPS",
+      "targetPath": "/oly-app",
+      "id": "7249f85af0171064ac8b5dd0ce19063a4f07efbc"
+    },
+    {
+      "url": "https://www.oly.com.au/one-card",
+      "source": "SITEMAPS",
+      "targetPath": "/one-card",
+      "id": "b400f9705d3a046c1643945bfa94dfeb08169cdb"
+    },
+    {
+      "url": "https://www.oly.com.au/privacy-policy",
+      "source": "SITEMAPS",
+      "targetPath": "/privacy-policy",
+      "id": "f08dab336941079671be01ab6a36ca76a402d7d6"
+    },
+    {
+      "url": "https://www.oly.com.au/refer",
+      "source": "SITEMAPS",
+      "targetPath": "/refer",
+      "id": "ec9b91de00d0f623ec8f65ec2e473e0ab61e9260"
+    },
+    {
+      "url": "https://www.oly.com.au/resolving-complaints",
+      "source": "SITEMAPS",
+      "targetPath": "/resolving-complaints",
+      "id": "0c81c74f486f21464c20111c7936e4955af688ea"
+    },
+    {
+      "url": "https://www.oly.com.au/search",
+      "source": "SITEMAPS",
+      "targetPath": "/search",
+      "id": "cfd933e8c2700b3d9aff6decb03b5f687103ebcb"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars",
+      "id": "d2e840449f271bc0c4529e3a224afccef7a5a54e"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/audi",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/audi",
+      "id": "e5f173cc719a0608dd6c593407ed69303347b71d"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/audi/q6-e-tron",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/audi/q6-e-tron",
+      "id": "ecebe6f20457d0efc194d66ff72da107216fb0dc"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/byd",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/byd",
+      "id": "381fc95293619ed810c80c0266328f0a1803249e"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/byd/seal",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/byd/seal",
+      "id": "43d61e8bcc948d7f8f61343aa1cad2e928ff8c63"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/byd/sealion-7",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/byd/sealion-7",
+      "id": "97438ea3e88783dc111606daac56141ba09673d5"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/cupra",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/cupra",
+      "id": "d297085b6eacb41dea6ab6bcd23b0699f99dc3cf"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/cupra/formentor",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/cupra/formentor",
+      "id": "95bec4aac9d1fca012b7fe0883a13fa0438c2663"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/ford",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/ford",
+      "id": "f9b0e468b2b7d7bb1c447da52ab95e426a073d24"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/gwm",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/gwm",
+      "id": "a3981e28da785cb50ac52558225a8a134fa94613"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/gwm/cannon",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/gwm/cannon",
+      "id": "1a31247f08c81bcf5cc12aacfba4581d07e94ea8"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/gwm/haval-h6gt",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/gwm/haval-h6gt",
+      "id": "3d704e7808376e48acd205da5551d25249fe8913"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/gwm/ora",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/gwm/ora",
+      "id": "23e8c970dce6bc6ec4a36509d13a472e7756f568"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/hyundai",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/hyundai",
+      "id": "efa4983177dabb1298e5238a9d7e51248d81f2af"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/hyundai/kona-electric",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/hyundai/kona-electric",
+      "id": "9017839f2e3922928a849e73ffc713fde0b91c89"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/hyundai/santa-fe",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/hyundai/santa-fe",
+      "id": "14a98aa325d64787dbccb8500806a817d4765757"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/hyundai/tucson",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/hyundai/tucson",
+      "id": "b9c884444add23bf858dd4e9d0c121b1c71f99bb"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/kia",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/kia",
+      "id": "c958d8d918e2698c9aecebc4c3d59c96da74c480"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/kia/ev5",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/kia/ev5",
+      "id": "c4d2174857676a09524b3784a91c0650294128ee"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/mazda",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/mazda",
+      "id": "230488f4f7bd3237e047c7fe4d8f861fdc4aa13b"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/mazda/cx-5",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/mazda/cx-5",
+      "id": "521732579cecae0e9f9bc42de932098e0588922a"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/mercedes-benz",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/mercedes-benz",
+      "id": "1b973ea6930c12e494fbee879246d75b7869d2f4"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/mercedes-benz/eqa",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/mercedes-benz/eqa",
+      "id": "c0d0fc00800340012ba9b806953223f4178779a5"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/mg",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/mg",
+      "id": "602ec3ed6c7caca8ec5d680e14c097d5bf2c108d"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/mg/zs-hybrid",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/mg/zs-hybrid",
+      "id": "1675801628cda4ca54a233317c0b7572cef35c77"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/mitsubishi",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/mitsubishi",
+      "id": "292e8f4b5412e53a951238690a7b08e250d583db"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/mitsubishi/outlander",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/mitsubishi/outlander",
+      "id": "5a01e24c6a9dd3edaaed98bb382a8a06a2beee26"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/smart",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/smart",
+      "id": "74f64c7c418576362e6bee9654edc67575b319ab"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/smart/3",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/smart/3",
+      "id": "956c51c3ea8f79eb2df88f2fd63d7120e4dcfef7"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/subaru",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/subaru",
+      "id": "5472561f74d4367d44db66a0eddaa71bdb6632e8"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/subaru/forester",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/subaru/forester",
+      "id": "6f887cf9e649dc8a71a973b64216695e3b965179"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/tesla",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/tesla",
+      "id": "22a1f037390345d656de2b5530c316c714b5adf4"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/tesla/model-y",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/tesla/model-y",
+      "id": "0bb0b2d80fca832d8a8ae2312361b91be43be113"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/toyota",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/toyota",
+      "id": "4249a9eadbe9b190b4a903f251df23dafa8d1056"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/toyota/hilux",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/toyota/hilux",
+      "id": "6a1f34241249809d2891f02e86e1de79e693db83"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/toyota/rav4",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/toyota/rav4",
+      "id": "14900082f8bd53f8ed480c9dcc9b55cc2901ecfd"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/volkswagen",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/volkswagen",
+      "id": "a6e39aef5150d923a60e7924872e36f7792a90bd"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/volkswagen/golf",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/volkswagen/golf",
+      "id": "0fbcb6a8ad6a34400be8ac4a7b88f6b3bee20ca4"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/volkswagen/id4",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/volkswagen/id4",
+      "id": "87d0a87d5379d2ad05463a6cf16a77161324c0f0"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/volvo",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/volvo",
+      "id": "3dfa994dea44633336ed562b99ef715a11e2abf7"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/volvo/ex-30",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/volvo/ex-30",
+      "id": "21fd563c3af8001d96b38a4aa16f2b4800801836"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/xpeng",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/xpeng",
+      "id": "3b4bb6670e99932cc9f9b794fdce2c25c72cf38c"
+    },
+    {
+      "url": "https://www.oly.com.au/shop-cars/xpeng/g6",
+      "source": "SITEMAPS",
+      "targetPath": "/shop-cars/xpeng/g6",
+      "id": "30555bedacf3a8d534d5d87711a4ea4e6ebf6e5f"
+    },
+    {
+      "url": "https://www.oly.com.au/tools",
+      "source": "SITEMAPS",
+      "targetPath": "/tools",
+      "id": "168661595a55d5e0c3d89dd26ce297140e525a09"
+    },
+    {
+      "url": "https://www.oly.com.au/unsubscribe",
+      "source": "SITEMAPS",
+      "targetPath": "/unsubscribe",
+      "id": "d9c2d2f43534c2c2b6d61746327361191ba914e8"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [],
+  "errorCountMessage": "none",
+  "error": null
+}
